@@ -21,17 +21,17 @@ nav {
     display: flex;
     flex-wrap: wrap;
       }
-nav a {
+.navigationtop {
         text-decoration: none;
         display: block;
         padding: 15px 25px;
         text-align: center;
-        background-color: purple;
+        background-color: #24252A;
         color: black;
         margin: 0;
         font-family: Helvetica;
       }
       nav a:hover {
         background-color: white;
-        color: black;
+        color: green;
       }
