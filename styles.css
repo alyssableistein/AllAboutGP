@@ -1,39 +1,33 @@
-
 p {
-    color: red;
+    color: black;
 }
 
 h1 {
-    color: skyblue;
+    color: black;
 }
 
 title {
-    color: red;
+    color: black;
 }
 header {
-    color: red;
+    color: black;
 }
 
-.topnavigation {
-  overflow: hidden;
-  background-color: skyblue;
-}
-
-.topnavigation a {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 16px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnavigation a:hover {
-  background-color: skyblue;
-  color: white;
-}
-
-.topnavigation a.active {
-  background-color: green;
-  color: white;
-}
+nav {
+    display: flex;
+    flex-wrap: wrap;
+      }
+nav a {
+        text-decoration: none;
+        display: block;
+        padding: 15px 25px;
+        text-align: center;
+        background-color: rgb(150, 125, 190);
+        color: black;
+        margin: 0;
+        font-family: Helvetica;
+      }
+      nav a:hover {
+        background-color: #777777;
+        color: #ffffff;
+      }
