@@ -28,6 +28,6 @@ nav a {
         font-family: Helvetica;
       }
       nav a:hover {
-        background-color: #777777;
-        color: #ffffff;
+        background-color: white;
+        color: black;
       }
