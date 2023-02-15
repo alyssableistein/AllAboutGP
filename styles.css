@@ -18,6 +18,10 @@ li {
   
 }
 
+table, th, td {
+  border:1px solid black;
+}
+
 .topnavigation {
     background-color: lightcyan;
     overflow: hidden;
