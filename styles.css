@@ -32,7 +32,7 @@ li {
 
 table, th, td {
   border:1.5px solid black;
-  background-color: #33475b;
+  background-color: white;
 }
 
 a:link {
@@ -48,11 +48,15 @@ a:visited {
 .next {
     color: black;
     background-color: #FCA78A;
+    text-align: right;
+    border-radius: 8px;
 }
 
 .back {
     color: black;
     background-color: #FCA78A;
+    text-align: right;
+    border-radius: 8px;
 }
 
 .topnavigation {
