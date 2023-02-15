@@ -1,36 +1,41 @@
 
 body {
+    font-family: sans-serif;
     background-color: skyblue;
 }
 
 p {
+    font-family: serif;
     color: black;
     background-color: white;
 }
 
 h1 {
+    font-family: sans-serif;
     color: black;
     background-color: skyblue;
 }
 
 title {
     color: black;
-    text-align: center;
-    text-decoration-line: underline;
-    text-decoration-color: green; 
-    background-color: #25395C;
 }
 header {
+    font-family: sans-serif;
     color: black;
     background-color: #A4B0FF;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: darkblue; 
 }
 
 li {
+  font-family: sans-serif;
   color: black;
   background-color: none;
 }
 
 table, th, td {
+  font-family: serif;
   border:1.5px solid black;
   background-color: white;
   width: 75%;
@@ -46,9 +51,20 @@ a:visited {
   text-decoration: underline;
 }
 
+.next {
+  color: black;
+  text-decoration: underline;
+}
+
+.back {
+  color: black;
+  text-decoration: underline;
+}
+
 .topnavigation {
     background-color: #FCA78A;
     overflow: hidden;
+    font-family: sans-serif;
   }
   
 .topnavigation a {
