@@ -45,20 +45,6 @@ a:visited {
   text-decoration: underline;
 }
 
-.next {
-    color: black;
-    background-color: #FCA78A;
-    text-align: right;
-    border-radius: 8px;
-}
-
-.back {
-    color: black;
-    background-color: #FCA78A;
-    text-align: right;
-    border-radius: 8px;
-}
-
 .topnavigation {
     background-color: #FCA78A;
     overflow: hidden;
