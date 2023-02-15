@@ -1,29 +1,36 @@
 p {
     color: black;
+    background-color: #1C67D2;
 }
 
 h1 {
     color: black;
+    background-color: #2787EA;
 }
 
 title {
     color: black;
     text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: green; 
+    background-color: #25395C;
 }
 header {
     color: black;
+    background-color: #A4B0FF;
 }
 
 li {
-  
+  color: black;
+  background-color: #EA7166;
 }
 
 table, th, td {
-  border:1px solid black;
+  border:1.5px solid black;
 }
 
 .topnavigation {
-    background-color: lightcyan;
+    background-color: #FCA78A;
     overflow: hidden;
   }
   
