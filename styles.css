@@ -1,11 +1,11 @@
 p {
     color: black;
-    background-color: #1C67D2;
+    background-color: white;
 }
 
 h1 {
     color: black;
-    background-color: #2787EA;
+    background-color: skyblue;
 }
 
 title {
@@ -22,7 +22,7 @@ header {
 
 li {
   color: black;
-  background-color: #EA7166;
+  background-color: grey;
 }
 
 table, th, td {
