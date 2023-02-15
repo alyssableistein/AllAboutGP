@@ -29,6 +29,14 @@ table, th, td {
   border:1.5px solid black;
 }
 
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
 .topnavigation {
     background-color: #FCA78A;
     overflow: hidden;
