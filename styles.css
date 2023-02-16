@@ -16,6 +16,18 @@ h1 {
     background-color: yellow;
 }
 
+h2 {
+    font-family: sans-serif;
+    color: black;
+    background-color: lightyellow;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: black;
+    background-color: lightorange;
+}
+
 title {
     color: black;
 }
