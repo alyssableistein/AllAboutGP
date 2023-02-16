@@ -85,6 +85,11 @@ table, th, td {
   align: center;
 }
 
+#specialbox {
+   background-color: yellow;
+   box-shadow: 5px 5px; 
+}
+
 a:link {
   color: green;
   text-decoration: underline;
