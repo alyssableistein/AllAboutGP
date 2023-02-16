@@ -98,12 +98,14 @@ a:visited {
   color: black;
   text-decoration: underline;
   font-size: 20px;
+  align="right"
 }
 
 .back {
   color: black;
   text-decoration: underline;
   font-size: 20px;
+  align="left"
 }
 
 .topnavigation {
