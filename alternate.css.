@@ -1,11 +1,11 @@
 body {
-    font-family: arial;
+    font-family: calibri;
     color: black;
-    background-color: skyblue;
+    background-color: white;
 }
 
 p {
-    font-family: serif;
+    font-family: calibri;
     font-size: 28px;
     color: brown;
     background-color: none;
@@ -34,7 +34,7 @@ article {
 h1 {
     font-family: helvetica;
     color: black;
-    background-color: #B3E6B5;
+    background-color: #BEB3E6;
     padding: 30px;
     margin: 30px;
 }
@@ -49,9 +49,9 @@ h2 {
 }
 
 h3 {
-    font-family: arial;
+    font-family: calibri;
     color: black;
-    background-color: #B3E6B5;
+    background-color: #c7b3e6;
     padding: 10px;
     margin: 10px;
     text-align: center;
