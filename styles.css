@@ -7,7 +7,7 @@ body {
 p {
     font-family: serif;
     color: black;
-    background-color: #66cccc;
+    background-color: lightyellow;
 }
 
 h1 {
@@ -50,7 +50,7 @@ footer {
 li {
   font-family: sans-serif;
   color: black;
-  background-color: none;
+  background-color: skyblue;
 }
 
 table, th, td {
