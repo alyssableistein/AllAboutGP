@@ -18,6 +18,7 @@ p {
 button {
     text-align: right;
     display: block;
+    margin: auto;
 }
 
 article {
