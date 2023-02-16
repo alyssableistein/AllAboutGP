@@ -18,7 +18,7 @@ p {
 button {
     text-align: right;
     display: block;
-    margin: auto;
+    margin-right: 200px;
 }
 
 article {
