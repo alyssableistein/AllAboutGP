@@ -27,9 +27,9 @@ article {
 h1 {
     font-family: helvetica;
     color: black;
-    background-color: yellow;
-    padding: 15px;
-    margin: 15px;
+    background-color: #B3E6B5;
+    padding: 30px;
+    margin: 30px;
 }
 
 h2 {
@@ -68,7 +68,7 @@ footer {
 }
 
 li {
-  font-family: sans-serif;
+  font-family: helvetica;
   font-size: 25px;
   color: black;
   background-color: #FCA78A;
@@ -76,9 +76,10 @@ li {
 
 table, th, td {
   font-family: serif;
-  font-size: 25px;
-  border:1.5px solid black;
+  font-size: 30px;
+  border: 2px solid black;
   background-color: white;
+  align: center;
 }
 
 a:link {
