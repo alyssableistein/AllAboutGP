@@ -13,7 +13,7 @@ p {
 h1 {
     font-family: sans-serif;
     color: black;
-    background-color: beige;
+    background-color: yellow;
 }
 
 title {
@@ -23,7 +23,7 @@ title {
 header {
     font-family: sans-serif;
     color: black;
-    background-color: yellow;
+    background-color: #FCA78A;
     text-align: center;
     text-decoration-line: underline;
 }
