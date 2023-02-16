@@ -12,10 +12,11 @@ p {
     background-color: none;
     padding: 10px;
     margin: 22px;
+    margin-right: 200px;
 }
 
 button {
-    text-align: center;
+    text-align: right;
     display: block;
     margin: auto;
 }
@@ -28,6 +29,7 @@ article {
     padding: 20px;
     margin: 20px;
     align="center"
+    margin-right: 200px;
 }
 
 h1 {
@@ -36,6 +38,7 @@ h1 {
     background-color: #B3E6B5;
     padding: 30px;
     margin: 30px;
+    margin-right: 200px;
 }
 
 h2 {
@@ -45,6 +48,7 @@ h2 {
     padding: 12px;
     margin: 12px;
     text-align: center;
+    margin-right: 200px;
 }
 
 h3 {
@@ -54,6 +58,7 @@ h3 {
     padding: 10px;
     margin: 10px;
     text-align: center;
+    margin-right: 200px;
 }
 
 title {
