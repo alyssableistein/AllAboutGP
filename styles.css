@@ -109,6 +109,11 @@ a:visited {
   text-align= left
 }
 
+.centerpics {
+    margin: 10px auto 15px;
+    display: block;
+}
+
 .topnavigation {
     background-color: #FCA78A;
     overflow: hidden;
