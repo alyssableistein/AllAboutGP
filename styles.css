@@ -7,7 +7,7 @@ body {
 
 p {
     font-family: serif;
-    font-size: 22px;
+    font-size: 28px;
     color: blue;
     background-color: none;
     padding: 10px;
@@ -45,7 +45,7 @@ h3 {
     background-color: lightyellow;
     padding: 10px;
     margin: 10px;
-    text-align: left;
+    text-align: center;
 }
 
 title {
