@@ -9,7 +9,7 @@ p {
     font-family: serif;
     font-size: 22px;
     color: blue;
-    background-color: lightgreen;
+    background-color: none;
     padding: 10px;
     margin: 22px;
 }
@@ -17,7 +17,7 @@ p {
 article {
     font-family: helvetica;
     color: black;
-    background-color: lightgreen;
+    background-color: #FCA78A;
     font-size: 25px;
     padding: 20px;
     margin: 20px;
