@@ -4,9 +4,6 @@ body {
     color: black;
     background-color: skyblue;
 }
-hover_sepia {
-    
-}
 
 p {
     font-family: serif;
@@ -47,7 +44,7 @@ h2 {
 h3 {
     font-family: arial;
     color: black;
-    background-color: 03C04A;
+    background-color: #03C04A;
     padding: 10px;
     margin: 10px;
     text-align: center;
