@@ -7,11 +7,11 @@ body {
 p {
     font-family: serif;
     color: black;
-    background-color: skyblue;
+    background-color: #288BA8;
 }
 
 h1 {
-    font-family: sans-serif;
+    font-family: helvetica;
     color: black;
     background-color: yellow;
 }
@@ -22,7 +22,7 @@ h2 {
     background-color: lightyellow;
 }
 
-h2 {
+h3 {
     font-family: sans-serif;
     color: black;
     background-color: lightorange;
@@ -35,7 +35,7 @@ title {
 header {
     font-family: sans-serif;
     color: black;
-    background-color: #FCA78A;
+    background-color: #yellow;
     text-align: center;
     text-decoration-line: underline;
 }
