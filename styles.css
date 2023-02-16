@@ -14,6 +14,12 @@ p {
     margin: 22px;
 }
 
+button {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
 article {
     font-family: helvetica;
     color: black;
