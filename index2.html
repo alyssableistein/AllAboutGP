@@ -4,7 +4,23 @@
 <! -- Create Head With Title "Welcome To Our Website!" -->
 <head>
 <title> Guinea Pig Adoption Information </title>
-<link id="csslink" rel="stylesheet" href="main.css">
+<! -- link the .css stylesheet -->
+<link id='csslink' rel="stylesheet" href="main.css" />
+<!-- JavaScript code to make switch button work -->
+<script>
+	    function toggleCSS() {
+          // Obtains the <link> element that links to the css (by using its id).
+          var currentCSS = document.getElementById('csslink');
+
+          // Change the value of href attribute to change the css file.
+          if (currentCSS.getAttribute('href') == 'main.css') {
+            currentCSS.setAttribute('href', 'alternate.css');
+          } else {
+            currentCSS.setAttribute('href', 'main.css');
+          }
+      }
+  </script>
+	
 </head>
 
 <body>
@@ -109,6 +125,10 @@
   </div>
 </button>
 </form>	
+	<br>
+	
+<! -- create toggle button -->
+<button onclick="toggleCSS()">Switch Style</button>
 	
 <footer>
   <p>Authors: Stephanie Perez and Alyssa Bleistein <br>
