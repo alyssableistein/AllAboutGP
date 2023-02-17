@@ -5,13 +5,13 @@
 <head>
 <title> Guinea Pig Adoption Information </title>
 <! -- link the .css stylesheet -->
-<link id='csslink' rel="stylesheet" href="css/main.css" />
+<link id='csslink' href="main.css" rel="stylesheet" /> 
+<link href="alternate.css" rel="alternate">
 <!-- JavaScript code to make switch button work -->
 <script>
 	    function toggleCSS() {
           // Obtains the <link> element that links to the css (by using its id).
           var currentCSS = document.getElementById('csslink');
-
           // Change the value of href attribute to change the css file.
           if (currentCSS.getAttribute('href') == 'main.css') {
             currentCSS.setAttribute('href', 'alternate.css');
