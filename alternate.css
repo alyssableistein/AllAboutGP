@@ -1,7 +1,7 @@
 body {
     font-family: calibri;
     color: black;
-    background-color: #00ffcc;
+    background-color: red;
 }
 
 p {
@@ -45,16 +45,16 @@ h2 {
     background-color: lightyellow;
     padding: 12px;
     margin: 12px;
-    text-align: center;
+    text-align: right;
 }
 
 h3 {
     font-family: calibri;
     color: black;
-    background-color: #c7b3e6;
+    background-color: orange;
     padding: 10px;
     margin: 10px;
-    text-align: center;
+    text-align: left;
 }
 
 title {
@@ -72,7 +72,7 @@ footer {
     font-family: Garamond;
     color: black;
     background-color: skyblue;
-    text-align: right;
+    text-align: left;
 }
 
 li {
