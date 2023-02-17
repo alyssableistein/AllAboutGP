@@ -5,19 +5,20 @@
 <head>
 <! -- link the .css stylesheet -->
 <link rel="stylesheet" href="styles.css">
-	<!-- JavaScript code to make switch button  -->
+	
+<title> Welcome To Our Website! </title>
+	
+	<!-- JavaScript code to make switch button work -->
    <script>
 	  function toggleCSS() {
           var currentCSS = document.getElementById('csslink');
 	          if (currentCSS.getAttribute('href') == 'styles.css') {
-            		currentCSS.setAttribute('href', 'alternate.css');
+            		currentCSS.setAttribute('href', 'alternate.css.');
           	  } else {
            		currentCSS.setAttribute('href', 'styles.css');
          	 }
       }
   </script>
-	
-<title> Welcome To Our Website! </title>
 </head>
 
 <body>
@@ -141,8 +142,10 @@
   </div>
 </button>
 </form>
-<! -- create toggle button -->
-  <button onclick="toggleCSS()" align="right">Switch Style</button>
+	
+<br>
+
+  <button onclick="toggleCSS()">Switch Style</button>
 
 <! -- create footer -->
 <footer>
