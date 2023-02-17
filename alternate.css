@@ -1,11 +1,11 @@
 body {
     font-family: calibri;
     color: black;
-    background-color: white;
+    background-color: ##00ffcc;
 }
 
 p {
-    font-family: calibri;
+    font-family: Oldtown;
     font-size: 28px;
     color: brown;
     background-color: none;
@@ -17,11 +17,11 @@ p {
 button {
     text-align: right;
     display: block;
-    margin: auto;
+    margin: 30px;
 }
 
 article {
-    font-family: helvetica;
+    font-family: Blippo;
     color: black;
     background-color: #FCA78A;
     font-size: 25px;
@@ -32,7 +32,7 @@ article {
 }
 
 h1 {
-    font-family: helvetica;
+    font-family: Florence;
     color: black;
     background-color: #BEB3E6;
     padding: 30px;
@@ -62,21 +62,21 @@ title {
 }
 
 header {
-    font-family: sans-serif;
+    font-family: Monaco;
     color: black;
     text-align: center;
     text-decoration-line: underline;
 }
 
 footer {
-    font-family: sans-serif;
+    font-family: Garamond;
     color: black;
     background-color: skyblue;
     text-align: right;
 }
 
 li {
-  font-family: helvetica;
+  font-family: Noto;
   font-size: 25px;
   color: black;
   background-color: #FCA78A;
@@ -86,16 +86,16 @@ li {
 }
 
 table, th, td {
-  font-family: serif;
+  font-family: arial;
   font-size: 30px;
-  border: 2px solid black;
-  background-color: white;
+  border: 4px solid black;
+  background-color: lightbrown;
   align: center;
 }
 
 #specialbox {
-   background-color: yellow;
-   box-shadow: 10px 10px; 
+   background-color: pink;
+   box-shadow: 30px 30px; 
 }
 
 a:link {
